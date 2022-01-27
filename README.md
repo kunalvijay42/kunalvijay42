@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **kunalvijay.kv2002@gmail.com**
 
-- ⚡ Fun fact **I Like Listening Punjabi Songs :)**
+- ⚡ Fun fact **I Love Listening Punjabi Songs :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
