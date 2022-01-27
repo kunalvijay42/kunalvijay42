@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Vijay</h1>
 <h3 align="center">A CSE Sophomore At VIT Vellore 😀</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-- 🌱 I’m currently learning **Web Development**
+- 👨‍💻 I’m currently learning **Web Development**
 
 - 📫 How to reach me **kunalvijay.kv2002@gmail.com**
 
