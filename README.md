@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kunalvijay17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalvijay17" height="30" width="40" /></a>
 <a href="https://instagram.com/kunalvijay42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalvijay42" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kunal2580" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kunal2580" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kunalvijay_kv201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kunalvijay_kv201" height="30" width="40" /></a>
