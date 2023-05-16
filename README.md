@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Vijay</h1>
-<h3 align="center">A Prefinal Year Student At VIT Vellore 👨‍💻</h3>
+<h3 align="center">A Final Year Student At VIT Vellore 👨‍💻</h3>
 
 -----
 
